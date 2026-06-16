@@ -249,3 +249,4 @@ For a real production setup, consider:
 | `EC2_HOST` | EC2 public IP | AWS Console |
 | `EC2_USER` | `ubuntu` or `ec2-user` | Depends on AMI |
 | App URL | `http://<EC2_HOST>:8000/` | After deployment |
+# Deployed!
